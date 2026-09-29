@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @twicoder
-- 👀 I’m interested in Web3 and DBMS
-- 🌱 I’m currently working on Web3
-- 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me: renqingwei123@163.com
+- 👀 I’m interested in AI application.
+- 🌱 I’m currently working on fullstack development
+- 💞️ I’m looking to collaborate on AI application
+- 📫 How to reach me: tiachinwe@gmail.com
 
 <!---
 twicoder/twicoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
